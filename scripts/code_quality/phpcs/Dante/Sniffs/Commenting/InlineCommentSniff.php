@@ -1,20 +1,20 @@
 <?php
 /**
- * \Kiva\Sniffs\Commenting\InlineCommentSniff.
+ * \Dante\Sniffs\Commenting\InlineCommentSniff.
  *
  * @category PHP
  * @package  PHP_CodeSniffer
  * @link     http://pear.php.net/package/PHP_CodeSniffer
  */
 
-namespace Kiva\Sniffs\Commenting;
+namespace Dante\Sniffs\Commenting;
 
 use PHP_CodeSniffer\Files\File;
 use PHP_CodeSniffer\Sniffs\Sniff;
 use PHP_CodeSniffer\Util\Tokens;
 
 /**
- * \Kiva\Sniffs\Commenting\InlineCommentSniff.
+ * \Dante\Sniffs\Commenting\InlineCommentSniff.
  *
  * Checks that no perl-style comments are used. Checks that inline comments ("//")
  * have a space after //, start capitalized and end with proper punctuation.

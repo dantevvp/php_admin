@@ -4,6 +4,6 @@
   <arg name="extensions" value="php,module,inc,install,test,profile,theme"/>
   <config name="drupal_core_version" value="8"/>
 
-  <rule ref="/code/scripts/code_quality/phpcs/Kiva">
+  <rule ref="/code/scripts/code_quality/phpcs/Dante">
   </rule>
 </ruleset>
