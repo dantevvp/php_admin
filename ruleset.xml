@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ruleset name="test">
+  <description>Default PHP CodeSniffer configuration for Commerce.</description>
+  <arg name="extensions" value="php,module,inc,install,test,profile,theme"/>
+  <config name="drupal_core_version" value="8"/>
+
+  <rule ref="/code/scripts/code_quality/phpcs/Kiva">
+  </rule>
+</ruleset>

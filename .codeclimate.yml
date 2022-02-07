@@ -1,0 +1,11 @@
+engines:
+  duplication:
+    enabled: false
+  structure:
+    enabled: false
+  phpcodesniffer:
+    enabled: true
+    channel: stable
+    config:
+      file_extensions: php
+      standard: "ruleset.xml"
