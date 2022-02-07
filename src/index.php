@@ -1,10 +1,10 @@
 <?php
 
-# tirame error pibe
+# this should throw an error
 
-//  ERROR
+//  THIS SHOULD THROW AN ERROR
 
-//ERRORTAMBIEN
+//THIS SHOULD THROW AN ERROR AS WELL
 
 class Test {
     public function __construct(
